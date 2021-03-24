@@ -5,3 +5,6 @@
 🔹 Copying the webpages in Document Root
 🔹 Starting the services
 🔹 Result : Our website got hosted just within few minutes.
+🔹 Configure Docker
+🔹 Start and enable Docker services
+🔹 Pull the httpd server image from the Docker Hub
