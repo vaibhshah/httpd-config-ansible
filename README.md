@@ -4,5 +4,4 @@
 🔹 Downloading the Apache webserver on target node
 🔹 Copying the webpages in Document Root
 🔹 Starting the services
-
 🔹 Result : Our website got hosted just within few minutes.
